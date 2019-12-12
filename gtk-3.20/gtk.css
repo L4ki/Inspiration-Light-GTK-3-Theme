@@ -3709,7 +3709,7 @@ tooltip {
   text-shadow: none;
   border: 1px solid #00c591; }
   tooltip.background {
-    background-color: #1f2223;
+    background-color: #d8dee9;
     background-clip: padding-box; }
   tooltip.window-frame.csd {
     background-color: transparent;
@@ -3720,7 +3720,7 @@ tooltip {
 tooltip * {
   padding: 0px;
   background-color: transparent;
-  color: #d8dee9; }
+  color: #2e3440; }
 
 /**************
  * Tree Views *
