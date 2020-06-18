@@ -11,4 +11,9 @@ Changelog: 12.12.2019.
 
 Correction gtk.css (3.18 and 3.20)
 
+Changelog: 18.06.2020.
+----------------------
+
+Correction button-active.png
+
 
